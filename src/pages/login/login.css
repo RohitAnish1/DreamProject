@@ -1,0 +1,18 @@
+.login{
+    min-height: 110vh;
+    background-color: rgba(240, 222, 53, 0.618);
+    margin-top: -26px;
+}
+.title{
+    font-size: 20px;
+   padding: 200px 100px;
+   color: rgb(6, 4, 3);
+   }
+.button1 button{
+    margin-left: 500px;
+    margin-top: -10px;
+    background: orange;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
